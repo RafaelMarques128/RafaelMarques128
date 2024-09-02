@@ -82,19 +82,16 @@
 
 <p>
   Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
-
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
-
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  💬 I am 24 years old and currently reside in Brazil. I have an intermediate level of English, allowing for easy communication in writing. I have experience with SQL, Java, web application development, and databases. I am continuously seeking to specialize further in Java and C#, with the goal of eventually becoming an expert in cross-platform development.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  ⚡ I enjoy reading, with a preference for personal development books, as well as watching movies and gaming in my leisure time! I never forget the importance of physical activity. I like to study and improve myself both as a professional and as a person, always striving to become a better version of myself, planning and preparing for the future.
 </details>
+
 
 ###
