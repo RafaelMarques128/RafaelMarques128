@@ -88,10 +88,11 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  💬 I am 24 years old and currently reside in Brazil. I have an intermediate level of English, allowing for easy communication in writing. I have experience with SQL, Java, web application development, and databases. I am continuously seeking to specialize further in Java and C#, with the goal of eventually becoming an expert in cross-platform development.
+  💬 I am **{{AGE}}** years old and currently reside in Brazil. I have an intermediate level of English, allowing for easy communication in writing. I have experience with SQL, Java, web application development, and databases. I am continuously seeking to specialize further in Java and C#, with the goal of eventually becoming an expert in cross-platform development.
 
   ⚡ I enjoy reading, with a preference for personal development books, as well as watching movies and gaming in my leisure time! I never forget the importance of physical activity. I like to study and improve myself both as a professional and as a person, always striving to become a better version of myself, planning and preparing for the future.
 </details>
+
 
 
 ###
