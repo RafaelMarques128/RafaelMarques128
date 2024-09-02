@@ -74,12 +74,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RafaelMarques128/RafaelMarques128/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p>
   Hi 👋, I'm Rafael! A software engineering student from Brazil.
 </p>
