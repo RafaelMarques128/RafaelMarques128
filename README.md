@@ -81,7 +81,7 @@
 ###
 
 <p>
-  Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
+  Hi 👋, I'm Rafael! A software engineering student from Brazil.
 </p>
 
 <!-- Dropdown -->
