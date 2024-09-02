@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">BackEnd Skills</p>
+<p align="left"><b>BackEnd Skills</b></p>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<p align="left">FrontEnd Skills</p>
+<p align="left"><b>FrontEnd Skills</b></p>
 
 ###
 
