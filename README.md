@@ -81,3 +81,11 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s2aXhiZWVqdHI1a3RzM29pa2NiNGtsamJ1bjVjcWYxcWR3Z25wMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.webp"  />
+</div>
+
+###
