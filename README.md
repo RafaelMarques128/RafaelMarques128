@@ -67,10 +67,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/DaovwcN-G0wAAAAC/nanami-kento.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/rafael-marques-63996817b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
