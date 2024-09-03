@@ -14,6 +14,17 @@
   ⚡ I enjoy reading, with a preference for personal development books, as well as watching movies and gaming in my leisure time! I never forget the importance of physical activity. I like to study and improve myself both as a professional and as a person, always striving to become a better version of myself, planning and preparing for the future.
 </details>
 
+
+<p align="left"><b>Portifólio</b></p>
+
+Aqui estão alguns dos meus projetos mais recentes:
+
+- [**Clone Disney+**](https://github.com/RafaelMarques128/clone_disneyplus): Um clone da interface do Disney+ utilizando HTML, CSS e JavaScript.
+- [**API Teste 2**](https://github.com/RafaelMarques128/ApiTeste2): Uma API de exemplo desenvolvida com Spring Boot e Java.
+- [**Spring Boot 3**](https://github.com/RafaelMarques128/springBoot3): Um projeto de aplicação web usando Spring Boot 3.
+- [**Gerenciador de Senhas**](https://github.com/RafaelMarques128/gerenciadorDeSenhas): Uma aplicação para gerenciamento básico de senhas, desenvolvida em Java.
+
+
 ###
 
 <div align="center">
