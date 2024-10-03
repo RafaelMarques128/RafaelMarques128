@@ -19,8 +19,8 @@
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-- [**Clone Disney+**](https://github.com/RafaelMarques128/clone_disneyplus): Um clone da interface do Disney+ utilizando HTML, CSS e JavaScript.
-- [**API Teste 2**](https://github.com/RafaelMarques128/ApiTeste2): Uma API de exemplo desenvolvida com Spring Boot e Java.
+- [**Disney+ Tamplate**](https://github.com/RafaelMarques128/clone_disneyplus): Um clone da interface do Disney+ utilizando HTML, CSS e JavaScript.
+- [**API Teste**](https://github.com/RafaelMarques128/ApiTeste2): Uma API de exemplo desenvolvida com Spring Boot e Java.
 - [**Spring Boot 3**](https://github.com/RafaelMarques128/springBoot3): Um projeto de aplicação web usando Spring Boot 3.
 - [**Gerenciador de Senhas**](https://github.com/RafaelMarques128/gerenciadorDeSenhas): Uma aplicação para gerenciamento básico de senhas, desenvolvida em Java.
 
